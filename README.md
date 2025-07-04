@@ -83,6 +83,7 @@ This project is a Streamlit-based interactive viewer for visualizing annotated r
 
 * Side-by-side comparison between the original and detected lane images.
 
+---
 
   ### Output Images:
 
